@@ -1,2 +1,6 @@
 
+<<<<<<< HEAD
 on master
+=======
+on branch-new-feature-2
+>>>>>>> new-feature-2
